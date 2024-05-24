@@ -1,0 +1,12 @@
+
+.FOIIcon img {
+    width: 50px !important;
+}
+
+.FOIIcon {
+    width: 52px !important;
+}
+
+button[data-element="pageRedactionToolGroupButton"] {
+    display: none !important;
+}
